@@ -13,16 +13,6 @@ Aqui você encontra meus estudos e projetos.
 
 ---
 
-## 📊 Minhas Atividades no GitHub
-
-### Stats 
-![Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=CaioPedroDias&show_icons=true&theme=transparent)
-
-### Linguagens mais usadas
-![Top Langs](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=CaioPedroDias&layout=compact&theme=transparent)
-
----
-
 
 ## 📬 Contato
 
