@@ -9,7 +9,7 @@ Aqui você encontra meus estudos e projetos.
 
 **Linguagens & Ferramentas:**
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,git,github,mysql,postgres,docker,linux&perline=8)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,php,java,git,github,mysql,linux&perline=8)
 
 ---
 
