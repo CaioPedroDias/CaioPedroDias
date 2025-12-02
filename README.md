@@ -13,13 +13,13 @@ Aqui você encontra meus estudos e projetos.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Minhas Atividades no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioPedroDias&show_icons=true&theme=default)
+### Stats 
+![Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=CaioPedroDias&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPedroDias&layout=compact&theme=default)
-
-![Streak](https://streak-stats.demolab.com?user=CaioPedroDias&theme=default)
+### Linguagens mais usadas
+![Top Langs](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=CaioPedroDias&layout=compact&theme=transparent)
 
 ---
 
