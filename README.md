@@ -1,21 +1,34 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioPedroDias&show_icons=true)
+#  Olá! Meu nome é Caio Pedro
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPedroDias&layout=compact)
+Sou estudante e entusiasta de tecnologia, focado em desenvolvimento de software e soluções práticas.  
+Aqui você encontra meus estudos e projetos.
+
+---
+
+## Tech Skills
+
+**Linguagens & Ferramentas:**
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,git,github,mysql,postgres,docker,linux&perline=8)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioPedroDias&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPedroDias&layout=compact&theme=default)
+
+![Streak](https://streak-stats.demolab.com?user=CaioPedroDias&theme=default)
+
+---
 
 
+## 📬 Contato
+
+**Email:** *caiopedro28@gmail.com*  
+**LinkedIn:** *https://www.linkedin.com/in/caio-pedro-dias-250065280/*  
 
 
-<!--
-**CaioPedroDias/CaioPedroDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
